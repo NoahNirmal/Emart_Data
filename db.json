@@ -1,11 +1,18 @@
 {
     "registers": [
       {
-        "name": "Noah",
-        "lastname": "Nirmal",
+        "username": "Noah",
+        "fullname": "Nirmal",
         "email": "noahnirmal@gmail.com",
         "password": "123",
         "id": 1
+      },
+      {
+        "username": "admin",
+        "fullname": "Noah Nirmal",
+        "email": "admin@gmail.com",
+        "password": "123",
+        "id": 2
       }
     ]
   }
