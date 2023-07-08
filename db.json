@@ -1,20 +1,4 @@
 {
-  "registers": [
-    {
-      "username": "Noah",
-      "fullname": "Nirmal",
-      "email": "noahnirmal@gmail.com",
-      "password": "123",
-      "id": 1
-    },
-    {
-      "username": "admin",
-      "fullname": "Noah Nirmal",
-      "email": "admin@gmail.com",
-      "password": "123",
-      "id": 2
-    }
-  ],
   "products": [
     {
       "id": 1,
@@ -246,7 +230,7 @@
     },
     {
       "id": 20,
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "title": "Danvouy  Womens T Shirt Casual Cotton Short",
       "price": 12.99,
       "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
       "category": "women's clothing",
@@ -255,6 +239,24 @@
         "rate": 3.6,
         "count": 145
       }
+    }
+
+   
+  ],
+  "registers": [
+    {
+      "username": "Noah",
+      "fullname": "Nirmal",
+      "email": "noahnirmal@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "admin",
+      "fullname": "Noah Nirmal",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "id": 2
     }
   ]
 }
